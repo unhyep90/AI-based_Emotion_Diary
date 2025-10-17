@@ -13,3 +13,5 @@
      
 > 본 프로젝트에서는 FullCalendar 라이브러리를 이용하여 달력을 구현하고 각 날짜 칸에 행복도 점수를 표시합니다.
 >> 웹사이트: https://fullcalendar.io
+
+<hr/>
